@@ -13,5 +13,4 @@ Note: This could also work for custom python stratergy setups provided your docu
 I have attached a pdf to the repo of what the user can expect!
 
 
-
 I have also learnt full stack web development and deployment though this personal project.
