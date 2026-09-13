@@ -10,8 +10,7 @@ Note: This could also work for custom python stratergy setups provided your docu
 
 <img width="1349" height="1113" alt="image" src="https://github.com/user-attachments/assets/1a182e9e-ee64-46a0-98ae-75980f4320a0" />
 
-Here is a sample of what a user can expect:
-[Uploading mt5_example.pdf…]()
+I have attached a pdf to the repo of what the user can expect!
 
 
 
